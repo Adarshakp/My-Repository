@@ -1,0 +1,22 @@
+ This is first step to learn Git and GitHub 
+ - In this first day i learned about how git and github works 
+  @ Git - (local) 
+    - we can create and modify the files in Finder
+    - also operates with terminal as well
+      >>> cd Documents
+      >>> mkdir Foldername
+      >>> cd Foldername 
+      >>> touch one.txt (To Create an EMPTY file)
+                Adarshkumar 
+                      |---Documents
+                            |---Foldername
+                                   |---one.txt
+  @ gitHub - (Remote)
+    - we can create and modify the files in GitHub 
+    - we can also operates with terminal as well
+      for clone the file into finder
+       1)copy the HTTPS link
+      >>> cd Documents
+      >>> git init (or)
+      >>> git clone link.
+      

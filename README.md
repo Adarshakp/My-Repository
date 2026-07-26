@@ -1,3 +1,4 @@
 # My-Repository
 this is my repository to create and introduce an new beautiful projects as well as creativity behind the technology to show that how technology like when we are giving an ability to shine and sparkles to show itself 
 this is also improve my skill and gain knowledge of it...
+through this shows, how i learn/build an foundations brick by brick
